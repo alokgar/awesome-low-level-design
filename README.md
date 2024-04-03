@@ -31,8 +31,8 @@ This repository contains low level design (LLD) resources to improve object orie
 - [Design a Vending Machine](https://medium.com/swlh/vending-machine-design-a-state-design-pattern-approach-5b7e1a026cd2)
 - [Design Stack Overflow](problems/stack-overflow.md) - Done
 - [Design Logging Framework](problems/logging-framework.md) - Done
-- [Design Coffee Vending Machine](problems/coffee-vending-machine.md)
-- [Design Traffic Signal Control System](problems/traffic-signal.md)
+- [Design Coffee Vending Machine](problems/coffee-vending-machine.md) - Done
+- [Design Traffic Signal Control System](problems/traffic-signal.md) - Done
 - [Design a Task Management System](problems/task-management-system.md)
 ### Medium
 - [Design Pub Sub System](problems/pub-sub-system.md)
