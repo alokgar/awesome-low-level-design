@@ -33,7 +33,7 @@ This repository contains low level design (LLD) resources to improve object orie
 - [Design Logging Framework](problems/logging-framework.md) - Done
 - [Design Coffee Vending Machine](problems/coffee-vending-machine.md) - Done
 - [Design Traffic Signal Control System](problems/traffic-signal.md) - Done
-- [Design a Task Management System](problems/task-management-system.md)
+- [Design a Task Management System](problems/task-management-system.md) - Done
 ### Medium
 - [Design Pub Sub System](problems/pub-sub-system.md)
 - [Design Tic Tac Toe Game](problems/tic-tac-toe.md)
